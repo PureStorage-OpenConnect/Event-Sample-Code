@@ -15,3 +15,5 @@ Sample code used for demos during Pure Storage events. This sample is provided a
 | Mike Nelson | Get-Pfa2StaleSnapshots |
 | Mike Nelson | Get-Pfa2ConnectDetails |
 |||
+
+If you have feedback or questions please feel free to add them to the repo [issues](https://github.com/PureStorage-OpenConnect/Event-Sample-Code/issues).
