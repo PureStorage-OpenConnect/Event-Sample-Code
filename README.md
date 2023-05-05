@@ -1,5 +1,5 @@
-# Sample Code
-Sample code used for demos during Pure Storage events. This sample is provided as an example and will need to modifed for custom environments. 
+# Pure Storage Developer Events
+This repo contains presentations and sample code used during Pure Storage developer events. This sample is provided as an example and will need to modifed for custom environments. 
 
 ## Automate using Pure PowerShell SDK & REST API
 ### April 18, 2023
