@@ -1,6 +1,8 @@
 # Pure Storage Developer Events
 This repo contains presentations and sample code used during Pure Storage developer events. This sample is provided as an example and will need to modifed for custom environments. 
 
+Join our **Discord** channels |  [general](https://discord.gg/TD35UunYW5)  |  [powershell](https://discord.gg/KfjrHn5ERT)  |  [python](https://discord.gg/UtGdQaY6uJ)  |  [go](https://discord.gg/sBHTmUYB9C)  |  [vmware](https://discord.gg/jefaZnkf7y)  |  [java](https://discord.gg/zsdCqtEds)  |  [ansible](https://discord.gg/rEyCXvAtJw)
+
 ## PowerShell + DevOps Global Summit 2023
 ### April 24-27, 2023, Bellevue, WA
 #### Speakers: Daniele Pecanha, Member of Technical Staff | Zhenhao Ye, Member of Technical Staff
