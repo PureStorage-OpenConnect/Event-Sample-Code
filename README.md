@@ -9,7 +9,7 @@ Join our **Discord** channels |  [general](https://discord.gg/TD35UunYW5)  |  [p
 [PowerPoint as PDF](https://github.com/PureStorage-OpenConnect/PureDevEvents/blob/main/PSHSummit2023/CodeGenerationFromOASToPSModule.pdf)
 | Demo | Description | 
 | ----------- | ----------- |
-| Mustache code generation (.ps1) |
+| Mustache code generation (.ps1) | Using swagger-codegen to generate PowerShell module from OpenAPI Schema |
 
 ## Automate using Pure PowerShell SDK & REST API
 ### April 18, 2023
