@@ -1,6 +1,14 @@
 # Pure Storage Developer Events
 This repo contains presentations and sample code used during Pure Storage developer events. This sample is provided as an example and will need to modifed for custom environments. 
 
+## PowerShell + DevOps Global Summit 2023
+### April 24-27, 2023, Bellevue, WA
+#### Speakers: Daniele Pecanha, Member of Technical Staff | Zhenhao Ye, Member of Technical Staff
+[PowerPoint as PDF](https://github.com/PureStorage-OpenConnect/PureDevEvents/blob/main/PSHSummit2023/CodeGenerationFromOASToPSModule.pdf)
+| Demo | Description | 
+| ----------- | ----------- |
+| Mustache code generation (.ps1) |
+
 ## Automate using Pure PowerShell SDK & REST API
 ### April 18, 2023
 #### Speakers: Mike Nelson, Technical Evangelist | Barkz, Technical Director Extensibility
@@ -14,6 +22,5 @@ This repo contains presentations and sample code used during Pure Storage develo
 | Mike Nelson | New-Pfa2ExcelReport - [Example Report](https://github.com/PureStorage-OpenConnect/Event-Sample-Code/blob/main/FlashCrew-Webinar-April2023/sn1-x70r3-f04-27-04212023_075033.xlsx) |
 | Mike Nelson | Get-Pfa2StaleSnapshots |
 | Mike Nelson | Get-Pfa2ConnectDetails |
-|||
 
 If you have feedback or questions please feel free to add them to the repo [issues](https://github.com/PureStorage-OpenConnect/Event-Sample-Code/issues).
